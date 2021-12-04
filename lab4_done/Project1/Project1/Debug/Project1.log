@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\oleg\desktop\учеба\сиод\lab4\project1\project1\main.cpp(60): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\oleg\desktop\учеба\сиод\lab4\project1\project1\main.cpp(180): warning C4715: Search: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\Oleg\Desktop\Учеба\СиОД\lab4\Project1\Debug\Project1.exe

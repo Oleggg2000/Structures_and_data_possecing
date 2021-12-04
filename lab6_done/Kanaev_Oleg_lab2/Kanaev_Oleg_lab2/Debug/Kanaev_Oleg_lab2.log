@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\oleg\desktop\study\сиод\lab6\kanaev_oleg_lab2\kanaev_oleg_lab2\main.cpp(29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\oleg\desktop\study\сиод\lab6\kanaev_oleg_lab2\kanaev_oleg_lab2\main.cpp(268): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\oleg\desktop\study\сиод\lab6\kanaev_oleg_lab2\kanaev_oleg_lab2\main.cpp(281): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\oleg\desktop\study\сиод\lab6\kanaev_oleg_lab2\kanaev_oleg_lab2\main.cpp(294): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\oleg\desktop\study\сиод\lab6\kanaev_oleg_lab2\kanaev_oleg_lab2\main.cpp(307): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Kanaev_Oleg_lab2.vcxproj -> C:\Users\Oleg\Desktop\Study\СиОД\lab6\Kanaev_Oleg_lab2\Debug\Kanaev_Oleg_lab2.exe

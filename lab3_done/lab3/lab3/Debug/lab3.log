@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\oleg\desktop\учеба\сиод\lab3\lab3\lab3\main.cpp(123): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  lab3.vcxproj -> C:\Users\Oleg\Desktop\Учеба\СиОД\lab3\lab3\Debug\lab3.exe

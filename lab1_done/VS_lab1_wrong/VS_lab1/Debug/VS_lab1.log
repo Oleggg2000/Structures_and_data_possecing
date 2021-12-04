@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\oleg\desktop\учеба\сиод\lab1\vs_lab1\vs_lab1\main.cpp(97): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\учеба\сиод\lab1\vs_lab1\vs_lab1\main.cpp(149): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\oleg\desktop\учеба\сиод\lab1\vs_lab1\vs_lab1\main.cpp(108): warning C4172: возвращение адреса локальной или временной переменной : word
+c:\users\oleg\desktop\учеба\сиод\lab1\vs_lab1\vs_lab1\main.cpp(136): warning C4172: возвращение адреса локальной или временной переменной : word
+c:\users\oleg\desktop\учеба\сиод\lab1\vs_lab1\vs_lab1\main.cpp(123): warning C4715: IsEmpty: значение возвращается не при всех путях выполнения
+  VS_lab1.vcxproj -> C:\Users\Oleg\Desktop\Учеба\СиОД\lab1\VS_lab1\Debug\VS_lab1.exe
